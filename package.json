@@ -39,7 +39,7 @@
     "forever": "~0.11",
     "fs-extra": "~0.12",
     "less": "~1.7",
-    "mustache": "~0.8",
+    "mustache": "~4.2",
     "node-squarespace-jsont": "~0.1.5",
     "node-squarespace-logger": "~0.1",
     "node-squarespace-middleware": "~0.3",
