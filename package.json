@@ -33,7 +33,7 @@
     "sqs": "./bin/squarespace-server"
   },
   "dependencies": {
-    "body-parser": "~1.9",
+    "body-parser": "~2.3",
     "cookie": "~0.1",
     "express": "~4.9",
     "forever": "~0.11",
