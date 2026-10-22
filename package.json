@@ -35,7 +35,7 @@
   "dependencies": {
     "body-parser": "~1.9",
     "cookie": "~0.1",
-    "express": "~4.9",
+    "express": "~5.3",
     "forever": "~0.11",
     "fs-extra": "~0.12",
     "less": "~1.7",
